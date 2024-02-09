@@ -14,7 +14,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gokulsundar-s&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=gokulsundar-s&locale=en&mode=daily&theme=nord&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D" height="150" alt="streak graph"  />
-</div><br/><br/>
+</div><br/>
 
 <h3 align="center">Tools and Languages</h3>
 
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="30" alt="illustrator logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="30" alt="photoshop logo"  />
-</div><br/><br/>
+</div><br/>
 
 <h3 align="center">See my performance</h3>
 
@@ -69,7 +69,7 @@
 <div align="center">
 <a href="https://www.leetcode.com/gokulsundar_s" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="30" alt="leetcode logo"/></a> 
 <a href="https://www.hackerrank.com/profile/Gokulsundar" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)" height="30" alt="hackerrank logo"/>
-</div><br/><br/>
+</div><br/>
 
 <h3 align="center">Let's get connected</h3>
 
