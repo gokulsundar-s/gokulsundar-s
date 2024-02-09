@@ -78,7 +78,7 @@
 <div align="center">
 <a href=mailto:"gokulsundars.cse@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail" height="30" /></a>
 <a href="https://www.instagram.com/sgs_gokul/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="30" alt="instagram logo"  /></a>
-<a href="https://www.threads.net/@sgs_gokul" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" height="30" alt="threads logo"  />
+<a href="https://www.threads.net/@sgs_gokul" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" height="30" alt="threads logo"  /></a>
 <a href="https://www.linkedin.com/in/gokulsundar-s/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" /></a>
 
 </div>
