@@ -21,54 +21,56 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="30" alt="materialui logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="30" alt="figma logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?logo=adobexd&logoColor=black&style=for-the-badge" height="30" alt="xd logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="30" alt="canva logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="30" alt="illustrator logo"  />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="30" alt="photoshop logo"  />
-</div><br/>
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="2" />
+  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
+  <img width="2" />
+  <img src="https://cdn.simpleicons.org/adobeillustrator" height="40" alt="illustrator logo"  />
+  <img width="2" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop" height="40" alt="photoshop logo"  />
+  <img width="2" />
+</div><br/><br/>
 
 <h3 align="center">See my performance</h3>
 
 ---
 
 <div align="center">
-<a href="https://www.leetcode.com/gokulsundar_s" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="30" alt="leetcode logo"/></a> 
-<a href="https://www.hackerrank.com/profile/Gokulsundar" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)" height="30" alt="hackerrank logo"/>
+  <a href="https://www.leetcode.com/gokulsundar_s" target="_blank"><img src="https://cdn.simpleicons.org/leetcode" height="35" alt="leetcode logo"  /></a> 
+  <img width="5" />
+  <a href="https://www.hackerrank.com/profile/Gokulsundar" target="_blank"><img src="https://cdn.simpleicons.org/hackerrank" height="35" alt="hackerrank logo"  /></a>
 </div><br/>
 
 <h3 align="center">Let's get connected</h3>
@@ -76,9 +78,10 @@
 ---
 
 <div align="center">
-<a href=mailto:gokulsundars.cse@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail" height="30" /></a>
-<a href="https://www.instagram.com/sgs_gokul/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="30" alt="instagram logo"  /></a>
-<a href="https://www.threads.net/@sgs_gokul" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" height="30" alt="threads logo"  /></a>
-<a href="https://www.linkedin.com/in/gokulsundar-s/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" /></a>
+<a href="https://www.instagram.com/sgs_gokul/" target="_blank"><img src="https://cdn.simpleicons.org/instagram" height="35" alt="instagram logo"  /></a>
+  <img width="5" />
+<a href="https://www.threads.net/@sgs_gokul" target="_blank"><img src="https://cdn.simpleicons.org/threads" height="35" alt="threads logo"  /></a>
+  <img width="5" />
+<a href="https://www.linkedin.com/in/gokulsundar-s/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin" height="35" alt="linkedin logo"  /></a>
 
 </div>
