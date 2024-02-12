@@ -83,6 +83,4 @@
 <a href="https://www.threads.net/@sgs_gokul" target="_blank"><img src="https://cdn.simpleicons.org/threads" height="35" alt="threads logo"  /></a>
   <img width="5" />
 <a href="https://www.linkedin.com/in/gokulsundar-s/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin" height="35" alt="linkedin logo"  /></a>
-</div><br/><br/>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gokulsundar-s&label=Profile%20views&color=0e75b6&style=plastic" alt="gokulsundar-s" /> </p>
+</div>
