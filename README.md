@@ -3,6 +3,9 @@
 <h1 align="center">Hello👋, I'm Gokulsundar S</h1>
 <h3 align="center">A passionate full stack developer from India🚀</h3><br/>
 
+<img width="220" height="165" alt="image" src="https://github.com/user-attachments/assets/6a8bdd74-eb30-446c-a4b1-2eb66480e6a0" />
+
+
 <div align="center">
   <img height="300" src="https://camo.githubusercontent.com/59e01572a86734010458d6fb25c2cf8d8dfafab3331af80215e8af07c150192a/68747470733a2f2f63646e2e73616e6974792e696f2f696d616765732f6f726467696b77652f70726f64756374696f6e2f613833306335313832383532653335626364306463303762393031323266303765636431356634382d373030783532352e6769663f773d37303026683d353235266175746f3d666f726d6174"  />
 </div><br/>
