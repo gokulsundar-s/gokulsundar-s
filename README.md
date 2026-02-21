@@ -1,4 +1,4 @@
-<p style="font-size: 2rem; text-align: center; font-weight: 700;";>Hello👋, I'm Gokulsundar Sundararaj</p>
+<p style="font-size: '2rem'; text-align: center; font-weight: 700;";>Hello👋, I'm Gokulsundar Sundararaj</p>
 
 <p style="font-size: 1.25rem; text-align: center;">Associate Consultant at ThoughtsCrest Software Private Limited</p>
 
