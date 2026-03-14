@@ -22,8 +22,7 @@
 
 <h3>Technologies I have worked with 🧑‍💻</h3>
 
-![React.js](https://img.shields.io/badge/React.js-2C2F33?style=for-the-badge)
-![React_TypeScript](https://img.shields.io/badge/React_TypeScript-2C2F33?style=for-the-badge)
+![React](https://img.shields.io/badge/React.js-2C2F33?style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-2C2F33?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-2C2F33?style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-2C2F33?style=for-the-badge)
