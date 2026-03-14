@@ -30,7 +30,6 @@
 ![Sass](https://img.shields.io/badge/Sass-2C2F33?style=for-the-badge)
 ![Ant_Design](https://img.shields.io/badge/Ant_Design-2C2F33?style=for-the-badge)
 ![MUI](https://img.shields.io/badge/MUI-2C2F33?style=for-the-badge)
-![Spring_Boot](https://img.shields.io/badge/Spring_Boot-2C2F33?style=for-the-badge)
 ![REST_APIs](https://img.shields.io/badge/REST_APIs-2C2F33?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-2C2F33?style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/Node.js-2C2F33?style=for-the-badge)
